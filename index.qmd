@@ -1,12 +1,22 @@
 ---
-title: "jalva459.github.io"
+title: "Juliana A. Alvarez"
 # this page is where all relevant links appear
+image: headshot.jpeg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/juliana-a-alva/
+    - text: GitHub
+      href: https://github.com/jalva459
+    - text: Email
+      href: mailto:alvarezja@si.edu
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
+        
+# page content excluded for brevity ~
 ```{r}
 1 + 1
 ```
