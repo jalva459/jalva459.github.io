@@ -1,7 +1,7 @@
 ---
 title: "Juliana A. Alvarez"
 # this page is where all relevant links appear
-image: media/headshot2.jpeg
+image: media/headshot3.jpeg
 toc: false
 about: 
   template: trestles

@@ -11,12 +11,13 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - What I'm reading
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: Brite
+      dark: Darkly
     css: styles.css
     toc: true
 
