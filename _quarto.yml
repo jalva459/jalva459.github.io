@@ -1,5 +1,8 @@
 project:
   type: website
+  output-dir: docs
+  # this line creates a place to hold our html files
+  # can delete the file that gets made automatically ("_site")
 
 website:
   title: "jalva459.github.io"
