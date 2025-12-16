@@ -1,7 +1,7 @@
 ---
 title: "Juliana A. Alvarez"
 # this page is where all relevant links appear
-image: headshot.jpeg
+image: media/headshot2.jpeg
 toc: false
 about: 
   template: trestles
@@ -15,8 +15,9 @@ about:
     - text: Email
       href: mailto:alvarezja@si.edu
 ---
-        
-# page content excluded for brevity ~
-```{r}
-1 + 1
-```
+Throughout my career, I've explored the intersections between environment and people. I firmly believe that environmental progress comes from a fundamental understanding of our study system(s) and the support of the general public. For this reason, I strive to increase the amount of available information about diverse species and biological systems through impactful research and commit to making scientific information accessible through education and outreach. 
+
+My main research interests lie within understanding neotropical & tropical forest interactions, processes, and assemblages as they change throughout time. 
+
+I’m currently based at the Smithsonian Tropical Research Institute in Panama, where I work as a post-baccalaureate RaMP-Up Research Fellow and I explore the use of molecular and genomic techniques for understanding forest assemblages and plant-fungal interactions.
+
